@@ -1,0 +1,7 @@
+
+----- SYMBOL TABLE -----
+Identifier	Memory Location		Type
+num		5000			int
+nu2m		5001			int
+large$		5002			int
+hey		5003			boolean
